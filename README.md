@@ -81,10 +81,17 @@ python main.py
 
 ---
 
-## 👨‍💻 Author
+## 👥 Author & Contributors
 
-Ayush Rathore
-B.Tech CSE | Data Analytics Enthusiast
+### 👨‍💻 Author
+* **Ayush Rathore** (B.Tech CSE | Data Analytics Enthusiast)
+  * **Contributions:** Project architecture, machine learning model design & training (SVM, Random Forest, KNN), pipeline integration, and Fatigue Risk Score (FRS) classification logic.
+
+### 🤝 Contributors
+* **Mahi**
+  * **Contributions:** Physiological signal acquisition (HRV/ECG data via PhysioNet WFDB), signal windowing & time-domain feature engineering (SDNN and RMSSD calculation, noise simulation).
+* **Prachi**
+  * **Contributions:** Data preprocessing, feature scaling (`MinMaxScaler`), feature selection (`SelectKBest`), model performance evaluation & benchmarking, and project documentation.
 
 ---
 
