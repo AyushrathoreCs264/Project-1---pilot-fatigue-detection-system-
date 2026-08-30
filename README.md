@@ -137,7 +137,7 @@ python main.py
 
 ## 👥 Authors & Acknowledgments
 
-- **Ayush Rathore** ([@AyushrathoreCs264](https://github.com/AyushrathoreCs264)) — *System Architecture, ML Pipeline Design, Model Benchmarking & Risk Scoring Algorithms*
+- **Ayush Rathore** ([@AyushrathoreCs264](https://github.com/AyushrathoreCs264) | [LinkedIn](https://www.linkedin.com/in/ayush-rathore-1b108023a)) — *System Architecture, ML Pipeline Design, Model Benchmarking & Risk Scoring Algorithms*
 - **Mahi** — *Physiological Signal Acquisition & HRV Feature Engineering*
 - **Prachi** — *Data Preprocessing, Normalization & Evaluation Documentation*
 
